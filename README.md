@@ -1,3 +1,5 @@
+## Name : VARUN JC
+## Reg no : 212224240179
 # FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
